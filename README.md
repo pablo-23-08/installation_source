@@ -6,7 +6,7 @@
     3. php: https://www.php.net/downloads.php
 
 
-     #• Pour l’installation de  mysql
+# Pour l’installation de  mysql
 Désarchivons et décompressons mysql-8.0.36.tar.gz que nous avons téléchargé avec la commande qui suit :
 				~$  tar -zxvf mysql-8.0.36.tar.gz
 			 
@@ -38,7 +38,7 @@ Pour savoir que mysql s’est installé on regarde quelle version est installé 
 	$ /usr/local/mysql/bin/mysql --version
 
 
-    #• Pour l’installation de  apache
+# Pour l’installation de  apache
 Désarchivons et décompressons httpd-2.4.59.tar.bz2 que nous avons téléchargé avec la commande qui suit :
 				~$  tar -jxvf httpd-2.4.59.tar.bz2
 
@@ -69,7 +69,7 @@ Pour savoir que apache s’est installé on regarde s’il marche avec la comman
 	$ sudo /usr/local/apache2//bin/apachectl start
 
 
-    #• Pour l’installation de  php
+# Pour l’installation de  php
 On désarchive et décompresse php-8.1.28.tar.bz2 avec la commande qui suit :
 				~$  tar -jxvf php-8.1.28.tar.bz2
 
